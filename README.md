@@ -1,14 +1,19 @@
-# PowerBI-Dashboards-
-A collection of Power BI dashboards showcasing financial analysis insights
+<h1 align="center">
+  Power BI Dashboards <img src=
+https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa4460249a0/images/presentation.gif
+       alt="Animated Preview" width="50px">
+</h1>
 
-# 📊 Power BI Dashboards
+
 🔍 **A collection of interactive dashboards for financial analysis.**  
-
+---
 ### 📂 Repository Structure:
 - **📂 Reports/** – Published dashboards & screenshots  
 - **📂 Data/** – Sample datasets used for dashboards  
 - **📂 PBIX-Files/** – Contains Power BI `.pbix` files  
 - **📂 Documentation/** – Guides explaining methodologies  
+
+---
 
 ### 🔗 Featured Dashboards:
 - **Revenue Forecasting** – [`Revenue-Forecast.pbix`](./PBIX-Files/Revenue-Forecast.pbix)  
