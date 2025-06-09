@@ -20,3 +20,8 @@ https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa
 - **Budget Variance Analysis** – [`Budget-Analysis.pbix`](./PBIX-Files/Budget-Analysis.pbix)  
 
 📫 Questions? Reach me on [LinkedIn](https://linkedin.com/in/shilla)!
+<p align="center">
+  <img src=
+https://github.com/AnalyticSleuth/PowerBI-Dashboards/blob/8ba86082e0c9ca751e91c4021582bba48390be54/Assets/Animation%20-%201749133562920.gif
+width="150px"
+</p>
